@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishika Raina</h1>
-<h3 align="center">MERN Stack Developer & Frontend Enthusiast from Jammu 🇮🇳</h3>
+<h3 align="center">MERN Stack Developer/h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rishika321&label=Profile%20views&color=0e75b6&style=flat" alt="rishika321" />
@@ -13,7 +13,7 @@ I enjoy creating clean user interfaces, designing REST APIs, and continuously im
 
 - 🌱 Currently working on **MERN stack projects**
 - ⚛️ Strong focus on **React.js**
-- 👯 Open to collaborating on **Frontend & Full Stack projects**
+- 👯 Open to collaborating on ** Full Stack projects**
 - 📫 Reach me at **rishikaraina2005@gmail.com**
 
 ---
